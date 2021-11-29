@@ -174,8 +174,7 @@ sections:
         url: /images/apple.svg
         altText: Apple
         caption: Apple
-      - url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+      - url: /images/carla.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''

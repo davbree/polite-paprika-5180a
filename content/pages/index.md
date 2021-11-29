@@ -55,9 +55,10 @@ sections:
     title: Testimonials
     subtitle: What our customers say about us
     testimonials:
-      - quote: >
-          "Very professional team. I loved working with the people at
-          startup.io."
+      - quote: |
+          # "Very professional team.
+
+          I loved working with the people at startup.io."
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:

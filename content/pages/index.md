@@ -188,7 +188,7 @@ sections:
         - name: description
           label: Description
           placeholder: Please describe
-          isRequired: false
+          isRequired: true
           width: full
           type: TextareaFormControl
       submitLabel: Sign Up

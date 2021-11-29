@@ -184,6 +184,12 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: full
+        - name: description
+          label: Description
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
       submitLabel: Sign Up
     media: null
     styles:

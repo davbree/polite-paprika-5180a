@@ -78,7 +78,7 @@ sections:
           title:
             textAlign: left
       - quote: >
-          "It's great to see someone taking acion while still maintaining a
+          "It's great to **see** someone taking acion while still maintaining a
           sustainable fish supply to home cooks."
         name: Hugh Saturation
         title: Creative at Acme

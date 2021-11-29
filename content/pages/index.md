@@ -184,6 +184,7 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: full
+          label: Email
         - name: description
           label: Description
           placeholder: Please describe

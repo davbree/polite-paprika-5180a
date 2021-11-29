@@ -84,7 +84,7 @@ sections:
         title: Creative at Acme
         image:
           type: ImageBlock
-          url: /images/hugh-saturation.jpg
+          url: /images/apple.svg
           altText: Photo of Johnna Doe
         styles:
           self:

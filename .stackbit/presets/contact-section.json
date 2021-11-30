@@ -2,7 +2,7 @@
     "model": "ContactSection",
     "presets": [
         {
-            "label": "Contact light - no media",
+            "label": "Contact light - no media.",
             "thumbnail": "images/contact-light-no-media.png",
             "data": {
                 "colors": "colors-h",
